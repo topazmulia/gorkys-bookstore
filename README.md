@@ -1,6 +1,5 @@
 ## How to Develop Locally
 
-1. Extract the .rar files
 
 1. Install [Node.js, npm, and gatsby](https://nodejs.org/en/)
 
@@ -22,5 +21,3 @@
 
 1. 🎉
 
-# gorkys-bookstore
-# gorkys-bookstore
