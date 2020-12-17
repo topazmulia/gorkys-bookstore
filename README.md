@@ -1,9 +1,13 @@
 ## How to Develop Locally
 
 
-1. Install [Node.js, npm, and gatsby](https://nodejs.org/en/)
+1. Install [Node.js & npm](https://nodejs.org/en/)
 
-1. Install npm dependencies:
+1. Install [Gatsby-cli](https://www.npmjs.com/package/gatsby-cli)
+
+        npm install -g gatsby-cli
+        
+1. Go to folder and install npm dependencies:
 
         npm install
 
