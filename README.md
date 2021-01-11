@@ -28,3 +28,6 @@
 
 1. 🎉
 
+## License
+
+Gorky's Bookstore is licensed under the [MIT license](LICENSE.md).
