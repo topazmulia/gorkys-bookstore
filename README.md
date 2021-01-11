@@ -11,7 +11,10 @@
 
         npm install
 
+1. Change with your Snipcart API key on [site-metadata.json](site-metadata.json).:
 
+        "snipcart_api_key": "YOUR SNIPCART API KEY",
+        
 1. Build the Gatsby local development server:
 
         gatsby build
